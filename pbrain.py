@@ -107,7 +107,7 @@ if DEBUG_EVAL:
 ######################################################################
 """
 # define a file for logging
-DEBUG_LOGFILE = "/tmp/pbrain-shadowcat.log"
+DEBUG_LOGFILE = "/tmp/pbrain-jellyfish.log"
 # clear it initially
 with open(DEBUG_LOGFILE,"w") as f:
     pass
