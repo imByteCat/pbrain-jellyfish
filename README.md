@@ -10,6 +10,8 @@ The `pisqpipe.py` file is basically the "Python copy" of [C++ template](http://p
 
 Please note that the Piskvork manager is a Windows application and currently supports only Windows compatible .exe files (furthermore whose name starts with `pbrain-` prefix).
 
+Run the following command to build `pbrain-jellyfish.exe`:
+
 ```
 python compile.py
 ```
