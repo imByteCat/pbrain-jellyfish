@@ -13,5 +13,5 @@ Please note that the Piskvork manager is a Windows application and currently sup
 Run the following command to build `pbrain-jellyfish.exe`:
 
 ```
-python compile.py
+python build.py
 ```
